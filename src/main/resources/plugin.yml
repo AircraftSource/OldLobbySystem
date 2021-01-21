@@ -1,0 +1,6 @@
+name: LobbySystem
+version: 1
+main: de.aircraft.lobbysystem.LobbySystem
+author: AirCraftDevs
+commands:
+  setup:
